@@ -1,0 +1,26 @@
+<annotation>
+	<folder>0325待标注</folder>
+	<filename>LXCH511FDRA-200325001757134-4-VyDMo.jpg</filename>
+	<path>C:\Users\Umika\Desktop\0325待标注\LXCH511FDRA-200325001757134-4-VyDMo.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>goods</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>346</xmin>
+			<ymin>424</ymin>
+			<xmax>409</xmax>
+			<ymax>526</ymax>
+		</bndbox>
+	</object>
+</annotation>

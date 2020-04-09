@@ -1,0 +1,26 @@
+<annotation>
+	<folder>0325待标注</folder>
+	<filename>LXCH511FDRA-200325065037914-3-9pRkr.jpg</filename>
+	<path>C:\Users\Umika\Desktop\0325待标注\LXCH511FDRA-200325065037914-3-9pRkr.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>goods</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>831</xmin>
+			<ymin>203</ymin>
+			<xmax>931</xmax>
+			<ymax>319</ymax>
+		</bndbox>
+	</object>
+</annotation>
